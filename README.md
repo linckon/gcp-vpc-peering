@@ -77,7 +77,7 @@ VPC Network Peerings gives you several advantages over using external IP address
   ![plot](images/14.peering-ab.png)
   ![plot](images/15.peering-ba.png)
 
-## Step 6:Test the Peering Connections(peering-ab and peering-ba)
+## Step 7:Test the Peering Connections(peering-ab and peering-ba)
 - 
   ![plot](images/15.pinging-after-peering.png)
   ![plot](images/nginx-connected-from-vpc-a-via-internal-ip.png)
