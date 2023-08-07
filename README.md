@@ -82,6 +82,8 @@ VPC Network Peerings gives you several advantages over using external IP address
   ![plot](images/15.pinging-after-peering.png)
   ![plot](images/nginx-connected-from-vpc-a-via-internal-ip.png)
 
+finally, we have created two separate VPCs in different geographical regions, set up a VM with Nginx in one VPC, and establish VPC peering to enable private IP communication between VMs across VPCs.
+
 
 
 
