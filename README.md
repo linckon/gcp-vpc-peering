@@ -37,7 +37,7 @@ VPC Network Peerings gives you several advantages over using external IP address
 
 ## Step 3:Create a Custom vpc-b with vpc-b-subnet & Firewall Rules
 - Repeat steps from step #2 but enter different values in the fields as shown below.
-  ![plot](images/11.vm-b-1.png)
+  ![plot](images/7.vpc-b-1.png)
 
   ![plot](images/8.vpc-b-2.png)
 
